@@ -4,7 +4,7 @@
 
 '/reps' directory contains **ema.txt** and **ema_disdr.txt**. These files
 contains the parse structures for emas reports without and with disdrometer
-respectively.
+respectively. Take very carefull if you modify them!
 
 ## Example of use
 

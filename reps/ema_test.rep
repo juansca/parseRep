@@ -1,0 +1,13 @@
+WS REPORT                 	              	       	Date:       	4           	10          	17    
+EMA:                      	RMA1_MIR      	       	Time:       	17:10:06    	            	      
+                          	              	       	            	            	            	      
+Latitude:                 	-30.9223      	       	Longitude:  	-62.6848    	            	      
+Altitude:                 	71            	       	PSLevel:    	1.5         	            	      
+                          	              	       	            	            	            	      
+                          	Interval (seg)	INST   	AVE (10 min)	MAX (10 min)	MIN (10 min)	STATUS
+Air temperature (°C):     	10            	23.97  	23.88       	23.94       	23.82       	Valid 
+Air pressure (hPa):       	10            	990.60 	990.87      	991.02      	990.62      	Valid 
+Relative humidity (%):    	10            	57     	58          	59          	57          	Valid 
+Precipitation amount (mm):	60            	0.000  	0.000       	0.000       	0.000       	Valid 
+Wind speed (m/s):         	1             	7.8    	7.2         	9.9         	5.3         	Valid 
+Wind direction (deg):     	1             	11     	6           	20          	352         	Valid 

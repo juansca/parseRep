@@ -1,0 +1,13 @@
+WS REPORT                 	              	       	Date:       	{date[day]}           	{date[month]}          	{date[year]}
+EMA:                      	{name}      	       	Time:       	{date[time]}
+                          	              	       	            	            	            	      
+Latitude:                 	{geo[lat]}      	       	Longitude:  	{geo[long]}
+Altitude:                 	{geo[alt]}           	       	PSLevel:    	{geo[pslevel]}
+                          	              	       	            	            	            	      
+                          	Interval (seg)	INST   	AVE (10 min)	MAX (10 min)	MIN (10 min)	STATUS
+Air temperature (°C):     	{airtemp[interval]}            	{airtemp[inst]}  	{airtemp[avg]}       	{airtemp[max]}       	{airtemp[min]}       	{airtemp[status]}
+Air pressure (hPa):       	{airpressure[interval]}            	{airpressure[inst]} 	{airpressure[avg]}      	{airpressure[max]}      	{airpressure[min]}      	{airpressure[status]}
+Relative humidity (%):    	{relhumidity[interval]}            	{relhumidity[inst]}     	{relhumidity[avg]}          	{relhumidity[max]}          	{relhumidity[min]}          	{relhumidity[status]}
+Precipitation amount (mm):	{precamount[interval]}            	{precamount[inst]}  	{precamount[avg]}       	{precamount[max]}       	{precamount[min]}       	{precamount[status]}
+Wind speed (m/s):         	{windspeed[interval]}             	{windspeed[inst]}    	{windspeed[avg]}         	{windspeed[max]}         	{windspeed[min]}         	{windspeed[status]}
+Wind direction (deg):     	{winddirect[interval]}             	{winddirect[inst]}    	{winddirect[avg]}         	{winddirect[max]}         	{winddirect[min]}         	{winddirect[status]}

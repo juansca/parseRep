@@ -1,0 +1,26 @@
+WS REPORT                               	              	       	Date:       	9           	10          	17    
+EMA:                                    	RMA1_FDC      	       	Time:       	22:30:06    	            	      
+                                        	              	       	            	            	            	      
+Latitude:                               	-31.5214      	       	Longitude:  	-64.4655    	            	      
+Altitude:                               	700           	       	PSLevel:    	1.5         	            	      
+                                        	              	       	            	            	            	      
+                                        	Interval (seg)	INST   	AVE (10 min)	MAX (10 min)	MIN (10 min)	STATUS
+Air temperature (°C):                   	10            	17.09  	17.38       	17.58       	17.13       	Valid 
+Air pressure (hPa):                     	10            	931.00 	930.92      	930.99      	930.84      	Valid 
+Relative humidity (%):                  	10            	28     	28          	28          	27          	Valid 
+Precipitation amount (mm):              	60            	0.000  	0.000       	0.000       	0.000       	Valid 
+Wind speed (m/s):                       	1             	0.4    	1.0         	2.0         	0.2         	Valid 
+Wind direction (deg):                   	1             	314    	309         	346         	274         	Valid 
+                                        	              	       	            	            	            	      
+DISDROMETER                             	              	       	            	            	            	      
+Sensor serial number:                   	366212        	       	            	            	            	      
+Rain intensity 32 bits (mm/h):          	0.000         	       	            	            	            	      
+Rain amount accumulated (mm):           	3.03          	       	            	            	            	      
+Weather code SYNOP wawa Table 4680:     	00            	       	            	            	            	      
+Radar reflectivity (dBz) :              	-9.999        	       	            	            	            	      
+MOR visibility in the precipitation (m):	20000         	       	            	            	            	      
+Kinetic energy (KJ):                    	0.00          	       	            	            	            	      
+Temperature in the sensor (°C):         	16            	       	            	            	            	      
+Signal amplitude of the laser strip:    	15066         	       	            	            	            	      
+Number of detected particles:           	0             	       	            	            	            	      
+Sensor status:                          	0             	       	            	            	            	      
